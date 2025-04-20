@@ -1,4 +1,4 @@
-# Superstore Checkout API
+# Django Checkout App
 
 This is a simple Django REST API that calculates the total price of items in a supermarket cart. The cart's total price takes into account individual prices and special offers for certain items.
 
