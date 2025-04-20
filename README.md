@@ -2,6 +2,13 @@
 
 This is a simple Django REST API that calculates the total price of items in a supermarket cart. The cart's total price takes into account individual prices and special offers for certain items.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Django-5.2-blue.svg" alt="Django Version">
+  <img src="https://img.shields.io/badge/Swagger-Enabled-green.svg" alt="Swagger">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</p>
+
 ## Features:
 
 - **Item Prices**: Each item has an individual price.
@@ -22,8 +29,8 @@ This is a simple Django REST API that calculates the total price of items in a s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/superstore-checkout-api.git
-   cd superstore-checkout-api
+   git clone https://github.com/Djain318/Django_Checkout_App.git
+   cd Django_Checkout_App
    ```
 
 2. **Create and activate a virtual environment:**
